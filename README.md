@@ -39,5 +39,5 @@ Here is the code:
 https://1drv.ms/t/c/9448f0a8866e182f/EdY8PDjj_YBFqawiN7-MUNsBMsHYlvh_d8Xf_C_BEdujww?e=oAGxWK
 
 
-
+(Digital Signals): PWM (Pulse Width Modulation) pins from the Arduino are used to control the turning on and off of the LEDs. These signals are either HIGH or LOW, meaning they operate in only two states (on and off) and (Analog Signals): If there were a sensor that could provide varying values, that would be considered an analog state.
 
